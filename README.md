@@ -5,10 +5,10 @@
 ---
 
 ## 📁 Project Structure
-The-Spice-Garden/
-├── index.html          # Main HTML file
-├── style.css           # Stylesheet for layout and responsiveness
-└── images/             # Menu item and banner images
+The-Spice-Garden/<br>
+├── index.html          # Main HTML file<br>
+├── style.css           # Stylesheet for layout and responsiveness<br>
+└── images/             # Menu item and banner images<br>
 ---
 
 ## 🔥 Features
